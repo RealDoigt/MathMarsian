@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{A33008B1-5DAC-44D5-9060-242E3B6E38F2}") = "MathMarsian", "MathMarsian\MathMarsian.booproj", "{C6386552-F282-44F7-B1E0-985426E65B90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6386552-F282-44F7-B1E0-985426E65B90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6386552-F282-44F7-B1E0-985426E65B90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6386552-F282-44F7-B1E0-985426E65B90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6386552-F282-44F7-B1E0-985426E65B90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
